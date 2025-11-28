@@ -1,6 +1,4 @@
-﻿# Simple Forum (Vue 3 + Go + MySQL)
-
-A minimal forum that mirrors the provided ER diagram. Boards contain posts, posts belong to topics, and users can publish posts as well as comments.
+﻿# Simple Forum 
 
 - **frontend**: Vue 3 + Vite + Pinia + Axios offers the SPA with board/topic filters, post creation, and comment flows.
 - **backend**: Go + Gin + GORM surfaces REST APIs and persists the entities.
