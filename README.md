@@ -1,7 +1,4 @@
-﻿# Simple Forum - 简单论坛
-
-一个基于 Vue 3 + Go + MySQL 的全栈论坛应用演示项目。
-
+# 一论坛
 ## 技术栈
 
 - **前端**: Vue 3 + Vite + Pinia + Axios
